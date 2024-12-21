@@ -137,9 +137,9 @@ label{
     }
     .buttonCtn{
         justify-self: center;
-        align-self: end;
+        align-self: center;
         width: 50%;
-        height: 80%;
+        height: 30%;
     }
     .submit{
         width: 100%;
