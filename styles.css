@@ -68,7 +68,8 @@ label{
 }
 #result{
     height: 100%;
-    display: flex;
+    width: 100%;
+    grid-auto-rows: 4/5;
     /*border: 3px dotted black;
     border-radius: 5px;*/
     padding: 10px;
