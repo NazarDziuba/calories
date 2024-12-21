@@ -128,7 +128,7 @@ label{
     .optionDiv{
         grid-row: 2/3;
         display: grid;
-        grid-template-rows: 20% 80%;
+        grid-template-rows: 30% 70%;
     }
     #wetRatio{
         height: 3rem;
