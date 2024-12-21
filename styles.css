@@ -68,6 +68,7 @@ label{
 }
 #result{
     height: 100%;
+    display: flex;
     /*border: 3px dotted black;
     border-radius: 5px;*/
     padding: 10px;
